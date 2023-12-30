@@ -1,9 +1,8 @@
 {
   "questions": [
-    
     {
       "question": "Hi",
-      "answer": "hello"
+      "answer": "hello master"
     },
     {
       "question": "Hello",
@@ -196,7 +195,346 @@
     {
       "question": "No",
       "answer": "OK"
+    },
+    {
+      "question": "Can you share an interesting historical fact?",
+      "answer": "Leonardo da Vinci could write with one hand and draw with the other simultaneously."
+    },
+    {
+      "question": "Do you know any fascinating scientific facts?",
+      "answer": "Honeybees can recognize human faces!"
+    },
+    {
+      "question": "Tell me something intriguing about space.",
+      "answer": "Neutron stars are so dense that a teaspoonful would weigh about a billion tons!"
+    },
+    {
+      "question": "What's an amazing animal fact?",
+      "answer": "Elephants can communicate using infrasound, sounds below the range of human hearing."
+    },
+    {
+      "question": "Can you share a mind-blowing technological fact?",
+      "answer": "The first computer virus was created in the early 1970s!"
+    },
+    {
+      "question": "Share a surprising fact about the human body.",
+      "answer": "The human nose can remember 50,000 different scents!"
+    },
+    {
+      "question": "Do you know an interesting fact about languages?",
+      "answer": "There are over 7,000 languages spoken around the world!"
+    },
+    {
+      "question": "Tell me something unique about the ocean.",
+      "answer": "The Mariana Trench is the deepest part of the ocean, reaching a depth of about 36,000 feet!"
+    },
+    {
+      "question": "What's an intriguing fact about the Earth?",
+      "answer": "The Earth's core is as hot as the surface of the sun!"
+    },
+    {
+      "question": "Share an interesting fact about plants.",
+      "answer": "The world's largest living thing is a mushroom that spans over 2,385 acres in Oregon!"
+    },
+    {
+      "question": "Can you explain the concept of quantum entanglement?",
+      "answer": "Quantum entanglement is a phenomenon where particles become interconnected and the state of one instantly influences the other, even if they're far apart. It's a fundamental principle in quantum mechanics."
+    },
+    {
+      "question": "What is the theory of relativity?",
+      "answer": "The theory of relativity, developed by Albert Einstein, consists of two main ideas: special relativity, which deals with the physics of objects in motion, and general relativity, which explains gravity as the curvature of spacetime caused by mass and energy."
+    },
+    {
+      "question": "Can you explain artificial neural networks?",
+      "answer": "Artificial neural networks are computing systems inspired by the human brain. They consist of interconnected nodes, or 'neurons,' that process information. Through training, they can learn patterns and make predictions or classifications."
+    },
+    {
+      "question": "What is the concept of machine learning?",
+      "answer": "Machine learning is a subset of artificial intelligence where systems learn from data, identify patterns, and make decisions without explicit programming. It involves algorithms that improve their performance over time."
+    },
+    {
+      "question": "Can you describe the basics of genetic engineering?",
+      "answer": "Genetic engineering involves manipulating an organism's DNA to modify its characteristics. Techniques like CRISPR-Cas9 allow precise editing of genes, offering potential applications in medicine, agriculture, and more."
+    },
+    {
+      "question": "Explain the concept of blockchain technology.",
+      "answer": "Blockchain is a decentralized, distributed ledger technology. It records transactions across multiple computers in a way that's transparent, secure, and resistant to modification. It's the foundation of cryptocurrencies and has applications beyond finance."
+    },
+    {
+      "question": "What is the significance of the Higgs boson particle?",
+      "answer": "The Higgs boson is a fundamental particle in particle physics. Its discovery confirmed the existence of the Higgs field, which gives particles their mass. Understanding the Higgs mechanism is crucial to our understanding of the universe."
+    },
+    {
+      "question": "Explain the concept of climate change.",
+      "answer": "Climate change refers to significant and long-term changes in the Earth's climate patterns. It's primarily caused by human activities, such as burning fossil fuels, deforestation, and industrial processes, leading to global warming and other environmental impacts."
+    },
+    {
+      "question": "What are the basics of quantum computing?",
+      "answer": "Quantum computing leverages principles from quantum mechanics to perform computations. Unlike classical computers using bits, which are either 0 or 1, quantum computers use qubits that can represent 0, 1, or both simultaneously, enabling faster and more complex calculations."
+    },
+    {
+      "question": "Can you explain the concept of string theory?",
+      "answer": "String theory is a theoretical framework in physics that suggests everything in the universe consists of tiny, vibrating strings. It attempts to reconcile quantum mechanics and general relativity and proposes multiple dimensions beyond the familiar three spatial dimensions."
+    },
+    {
+      "question": "What does 'hello' mean in Spanish?",
+      "answer": "'Hello' means 'hola' in Spanish."
+    },
+    {
+      "question": "What does 'goodbye' mean in Spanish?",
+      "answer": "'Goodbye' means 'adiós' in Spanish."
+    },
+    {
+      "question": "What does 'thank you' mean in Spanish?",
+      "answer": "'Thank you' means 'gracias' in Spanish."
+    },
+    {
+      "question": "What does 'please' mean in Spanish?",
+      "answer": "'Please' means 'por favor' in Spanish."
+    },
+    {
+      "question": "What does 'yes' mean in Spanish?",
+      "answer": "'Yes' means 'sí' in Spanish."
+    },
+    {
+      "question": "What does 'no' mean in Spanish?",
+      "answer": "'No' means 'no' in Spanish."
+    },
+    {
+      "question": "What does 'friend' mean in Spanish?",
+      "answer": "'Friend' means 'amigo' in Spanish."
+    },
+    {
+      "question": "What does 'family' mean in Spanish?",
+      "answer": "'Family' means 'familia' in Spanish."
+    },
+    {
+      "question": "What does 'food' mean in Spanish?",
+      "answer": "'Food' means 'comida' in Spanish."
+    },
+    {
+      "question": "What does 'water' mean in Spanish?",
+      "answer": "'Water' means 'agua' in Spanish."
+    },
+    {
+      "question": "What does 'time' mean in Spanish?",
+      "answer": "'Time' means 'tiempo' in Spanish."
+    },
+    {
+      "question": "What does 'home' mean in Spanish?",
+      "answer": "'Home' means 'hogar' in Spanish."
+    },
+    {
+      "question": "What does 'love' mean in Spanish?",
+      "answer": "'Love' means 'amor' in Spanish."
+    },
+    {
+      "question": "What does 'work' mean in Spanish?",
+      "answer": "'Work' means 'trabajo' in Spanish."
+    },
+    {
+      "question": "What does 'play' mean in Spanish?",
+      "answer": "'Play' means 'jugar' in Spanish."
+    },
+    {
+      "question": "What does 'happy' mean in Spanish?",
+      "answer": "'Happy' means 'feliz' in Spanish."
+    },
+    {
+      "question": "What does 'sad' mean in Spanish?",
+      "answer": "'Sad' means 'triste' in Spanish."
+    },
+    {
+      "question": "What does 'angry' mean in Spanish?",
+      "answer": "'Angry' means 'enojado' in Spanish."
+    },
+    {
+      "question": "What does 'beautiful' mean in Spanish?",
+      "answer": "'Beautiful' means 'hermoso' in Spanish."
+    },
+    {
+      "question": "What does 'ugly' mean in Spanish?",
+      "answer": "'Ugly' means 'feo' in Spanish."
+    },
+    {
+      "question": "What does 'big' mean in Spanish?",
+      "answer": "'Big' means 'grande' in Spanish."
+    },
+    {
+      "question": "What does 'small' mean in Spanish?",
+      "answer": "'Small' means 'pequeño' in Spanish."
+    },
+    {
+      "question": "What does 'hot' mean in Spanish?",
+      "answer": "'Hot' means 'caliente' in Spanish."
+    },
+    {
+      "question": "What does 'cold' mean in Spanish?",
+      "answer": "'Cold' means 'frío' in Spanish."
+    },
+    {
+      "question": "What does 'sun' mean in Spanish?",
+      "answer": "'Sun' means 'sol' in Spanish."
+    },
+    {
+      "question": "What does 'moon' mean in Spanish?",
+      "answer": "'Moon' means 'luna' in Spanish."
+    },
+    {
+      "question": "What does 'stars' mean in Spanish?",
+      "answer": "'Stars' means 'estrellas' in Spanish."
+    },
+    {
+      "question": "What does 'sky' mean in Spanish?",
+      "answer": "'Sky' means 'cielo' in Spanish."
+    },
+    {
+      "question": "What does 'earth' mean in Spanish?",
+      "answer": "'Earth' means 'tierra' in Spanish."
+    },
+    {
+      "question": "What does 'nature' mean in Spanish?",
+      "answer": "'Nature' means 'naturaleza' in Spanish."
+    },
+    {
+      "question": "What does 'animal' mean in Spanish?",
+      "answer": "'Animal' means 'animal' in Spanish."
+    },
+    {
+      "question": "What does 'bird' mean in Spanish?",
+      "answer": "'Bird' means 'pájaro' in Spanish."
+    },
+    {
+      "question": "What does 'cat' mean in Spanish?",
+      "answer": "'Cat' means 'gato' in Spanish."
+    },
+    {
+      "question": "What does 'dog' mean in Spanish?",
+      "answer": "'Dog' means 'perro' in Spanish."
+    },
+    {
+      "question": "What does 'fish' mean in Spanish?",
+      "answer": "'Fish' means 'pez' in Spanish."
+    },
+    {
+      "question": "What does 'tree' mean in Spanish?",
+      "answer": "'Tree' means 'árbol' in Spanish."
+    },
+    {
+      "question": "What does 'flower' mean in Spanish?",
+      "answer": "'Flower' means 'flor' in Spanish."
+    },
+    {
+      "question": "What does 'color' mean in Spanish?",
+      "answer": "'Color' means 'color' in Spanish."
+    },
+    {
+      "question": "What does 'red' mean in Spanish?",
+      "answer": "'Red' means 'rojo' in Spanish."
+    },
+    {
+      "question": "What does 'blue' mean in Spanish?",
+      "answer": "'Blue' means 'azul' in Spanish."
+    },
+    {
+      "question": "What does 'green' mean in Spanish?",
+      "answer": "'Green' means 'verde' in Spanish."
+    },
+    {
+      "question": "What does 'yellow' mean in Spanish?",
+      "answer": "'Yellow' means 'amarillo' in Spanish."
+    },
+    {
+      "question": "What does 'black' mean in Spanish?",
+      "answer": "'Black' means 'negro' in Spanish."
+    },
+    {
+      "question": "What does 'white' mean in Spanish?",
+      "answer": "'White' means 'blanco' in Spanish."
+    },
+    {
+      "question": "What does 'school' mean in Spanish?",
+      "answer": "'School' means 'escuela' in Spanish."
+    },
+    {
+      "question": "What does 'student' mean in Spanish?",
+      "answer": "'Student' means 'estudiante' in Spanish."
+    },
+    {
+      "question": "What does 'teacher' mean in Spanish?",
+      "answer": "'Teacher' means 'profesor' in Spanish."
+    },
+    {
+      "question": "What does 'book' mean in Spanish?",
+      "answer": "'Book' means 'libro' in Spanish."
+    },
+    {
+      "question": "What does 'pencil' mean in Spanish?",
+      "answer": "'Pencil' means 'lápiz' in Spanish."
+    },
+    {
+      "question": "What does 'computer' mean in Spanish?",
+      "answer": "'Computer' means 'computadora' in Spanish."
+    },
+    {
+      "question": "What does 'phone' mean in Spanish?",
+      "answer": "'Phone' means 'teléfono' in Spanish."
+    },
+    {
+      "question": "What does 'music' mean in Spanish?",
+      "answer": "'Music' means 'música' in Spanish."
+    },
+    {
+      "question": "What does 'art' mean in Spanish?",
+      "answer": "'Art' means 'arte' in Spanish."
+    },
+    {
+      "question": "What does 'movie' mean in Spanish?",
+      "answer": "'Movie' means 'película' in Spanish."
+    },
+    {
+      "question": "What does 'game' mean in Spanish?",
+      "answer": "'Game' means 'juego' in Spanish."
+    },
+    {
+      "question": "What does 'sport' mean in Spanish?",
+      "answer": "'Sport' means 'deporte' in Spanish."
+    },
+    {
+      "question": "What does 'travel' mean in Spanish?",
+      "answer": "'Travel' means 'viajar' in Spanish."
+    },
+    {
+      "question": "What does 'city' mean in Spanish?",
+      "answer": "'City' means 'ciudad' in Spanish."
+    },
+    {
+      "question": "What does 'country' mean in Spanish?",
+      "answer": "'Country' means 'país' in Spanish."
+    },
+    {
+      "question": "What does 'world' mean in Spanish?",
+      "answer": "'World' means 'mundo' in Spanish."
+    },
+    {
+      "question": "What does 'universe' mean in Spanish?",
+      "answer": "'Universe' means 'universo' in Spanish."
+    },
+    {
+      "question": "What does 'science' mean in Spanish?",
+      "answer": "'Science' means 'ciencia' in Spanish."
+    },
+    {
+      "question": "What does 'technology' mean in Spanish?",
+      "answer": "'Technology' means 'tecnología' in Spanish."
+    },
+    {
+      "question": "What does 'internet' mean in Spanish?",
+      "answer": "'Internet' means 'internet' in Spanish."
+    },
+    {
+      "question": "What does 'space' mean in Spanish?",
+      "answer": "'Space' means 'espacio' in Spanish."
     }
-    
   ]
 }
